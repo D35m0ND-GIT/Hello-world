@@ -1,6 +1,3 @@
-from winreg import HKEY_LOCAL_MACHINE
-
-
 x = "hello"
 y = "world"
 
